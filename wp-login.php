@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 	<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Type" content="/text/html; charset=UTF-8">
 	<title>Log In &lsaquo; dragondebt &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
@@ -10,8 +10,8 @@
 <link rel="stylesheet" id="forms-css" href="/wp-admin/css/forms.min.css?ver=5.8.3" media="all">
 <link rel="stylesheet" id="l10n-css" href="/wp-admin/css/l10n.min.css?ver=5.8.3" media="all">
 <link rel="stylesheet" id="login-css" href="/wp-admin/css/login.min.css?ver=5.8.3" media="all">
-	<meta name="referrer" content="strict-origin-when-cross-origin">
-		<meta name="viewport" content="width=device-width">
+	<meta name="referrer" content="/strict-origin-when-cross-origin">
+		<meta name="viewport" content="/width=device-width">
 		</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-en-us">
 	<script type="text/javascript">
@@ -56,7 +56,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 	<script src="/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
 <script src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
 <script id="zxcvbn-async-js-extra">
-var _zxcvbnSettings = {"src":"http:\/\/dragondebt.local\/wp-includes\/js\/zxcvbn.min.js"};
+var _zxcvbnSettings = {"src":"http:\/\/DragonDebtUIC\/wp-includes\/js\/zxcvbn.min.js"};
 </script>
 <script src="/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
 <script src="/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" id="regenerator-runtime-js"></script>
